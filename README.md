@@ -1,4 +1,4 @@
-Donot copy Try by yourself 
+Do not copy Try by yourself !!
 # Guide
 A collection of my implementations and Personal Experiences.Some of my successful submissions to contests to few web platforms added with platform name.
 *[Before looking here move to algo-wiki to clear base that contain my implemention to common problems as per my thinking](https://github.com/milrim/Algo-Wiki)
@@ -32,3 +32,5 @@ permutations, combinations, arrangements, partitions
 ## string 
 String algorithms: suffix tree, suffix automata, suffix array, trie, Aho-Corasick algorithm, Knuth-Morris-Pratt algorithm, Z-function, hashing, parsing
 ## Misc
+
+{Contact me for any help at garima.guptadl7@gmail.com}
