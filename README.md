@@ -4,5 +4,5 @@ Before looking here move to my repo algo-wiki to clear base that also contain my
 ## Range Queries
 ## Graphs
 ## Trees
-## Misc
 ## Number theory Algorithems
+## Misc
