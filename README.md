@@ -1,7 +1,6 @@
 Do not copy Try by yourself !!
 # Guide
-A collection of my implementations and Personal Experiences.Some of my successful submissions to contests to few web platforms added with platform name.
-*[Before looking here move to algo-wiki to clear base that contain my implemention to common problems as per my thinking](https://github.com/milrim/Algo-Wiki)
+A collection of my implementations and Personal Experiences.
 ### Fllowing implementions of mine 
 ## Range Queries
 Point Update Range Query
