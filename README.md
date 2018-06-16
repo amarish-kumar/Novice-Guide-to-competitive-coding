@@ -3,29 +3,39 @@ Do not copy Try by yourself !!
 A collection of my implementations and Personal Experiences.
 ### Fllowing implementions of mine 
 ## Range Queries
-Point Update Range Query
-Range Update Range Query
-Order Statistic Query
-2D Binary Indexed Trees
-Segment Trees (SegTree) :
+1.Point Update Range Query
+2.Range Update Range Query
+3.Order Statistic Query
+4.2D Binary Indexed Trees
+5.Segment Trees (SegTree) :
 Point Update Range Query
 Fast Iterative Segtrees
 Range Update Point Query - Lazy Propogation
-Max subsegment sum in range
-2D Segment Trees
-Dynamic Segment Trees - Insertion/Deletion between elements
-Dynamic Segment Trees - Reverse a segment
-Merge Sort Trees :
+6.Max subsegment sum in range
+7.2D Segment Trees
+8.Dynamic Segment Trees - Insertion/Deletion between elements
+9.Dynamic Segment Trees - Reverse a segment
+10.Merge Sort Trees :
 Merge sort trees
 Merge sort trees - Order Statistics
-Sparse Table :
-Range Minimum Query
-Mo Algorithm :
-Mo Algorithm - Arrays
+11.Sparse Table :
+12.Range Minimum Query
+13.Mo Algorithm - Arrays
 ## Graphs
-shortest paths, maximum flow, maximum matching, spanning tree, connectivity, biconnectivity, LCA
+1.shortest paths
+2.maximum flow
+3.maximum matching
+4.spanning tree
+5.connectivity
+6.biconnectivity
+7.LCA
 ## Trees
-segment tree, Fenwick tree, k-d tree, R-tree, metric tree, quadtree, persistent tree, link/cut tree, binary heap, disjoint-sets, treap
+1.segment tree
+2.Fenwick tree
+3.persistent tree
+4.link/cut tree
+5.binary heap
+6.disjoint-sets, treap
 ## Number theory Algorithems
 permutations, combinations, arrangements, partitions
 ## string 
